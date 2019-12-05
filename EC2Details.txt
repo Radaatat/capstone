@@ -1,7 +1,0 @@
-Operating System: Ubuntu Server 18.04 LTS (HVM)
-
-Public DNS (IPV4): ec2-3-83-47-209.compute-1.amazonaws.com
-
-IPV4 Public IP: 3.83.47.209
-
-Notes: Transfer files into web server using WinSCP NOT PuTTy. Enable HTTP from all IP's inside the Security Group to view files via IPV4.
