@@ -1,7 +1,0 @@
-Endpoint: capstonedb.crm8je0ps7pg.us-east-1.rds.amazonaws.com
-
-Username: admin
-
-Password: Digitno#2
-
-Notes: Enable MySQL from all IP's in the Security Group to establish a connection. 
