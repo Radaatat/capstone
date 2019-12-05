@@ -1,0 +1,66 @@
+* {
+  color: #E2DDEB;
+}
+
+html {
+  height: 100%;
+}
+
+nav img {
+  width: 50px;
+}
+
+body {
+  /* background-color: #2C2C2C; */
+  background-color: rgb(54, 67, 85);
+}
+
+header {
+  text-align: center;
+  text-shadow: 3px 5px 20px black;
+}
+
+footer {
+  text-align: center;
+  font-size: small;
+  font-style: italic;
+}
+
+footer a {
+  text-decoration: none;
+  color: rgb(149, 222, 255);
+}
+
+footer a:hover {
+  text-decoration: none;
+}
+
+.headerlogo {
+  width: 100%;
+  max-width: 500px;
+}
+
+.indexheader {
+  width: 100%;
+}
+
+.left {
+  text-align: left;
+  padding-left: 30px;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.girlinbeanie {
+  width: 100%;
+}
+
+.doctors {
+  margin-top: 10%
+}
